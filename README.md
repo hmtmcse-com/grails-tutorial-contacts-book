@@ -111,18 +111,18 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 ### Grails CRUD Registration Form -3 (View, table, pagination, form), (Grails Tutorial Part-3) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Basic About Grails Default Tag Library
-2. Create a HTML form with Grails tag Lib  & Bootstrap 4 design into .gsp file
-3. Debug Submission & Save Data 
-4. Create Table and Show data
-5. Table Action and Pagination
-6. Update and Delete.
+2. Localization i18n
+3. Create a HTML form with Grails tag Lib  & Bootstrap 4 design into .gsp file
+4. Debug Submission & Save Data 
+5. Create Table and Show data
+6. Table Action and Pagination
+7. Update and Delete.
 
 <br/><br/>
 
 ### Grails Validation and Custom Tag Library (TagLib) (Grails Tutorial Part-4) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Validate set and parse validation message
-2. Localization i18n
-3. Show error message using TagLib
+2. Show error message using TagLib
 
 <br/><br/>
 
