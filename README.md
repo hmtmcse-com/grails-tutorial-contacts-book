@@ -126,28 +126,46 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Validation and Custom Tag Library (TagLib) (Grails Tutorial Part-4) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Validate set and parse validation message
-2. Show error message using TagLib
+### Grails Custom Tag Library (TagLib) & Display Validation Message (Grails Tutorial Part-4) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Basic About Custom Tag Library
+2. Create Custom Tag Library & add validation message processor
+3. Debug Validation Error from Save Update
+4. Show error message using TagLib
+
 
 <br/><br/>
 
 ### Grails Play with jQuery & Bootstrap 4 (Grails Tutorial Part-5) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Show Flash Message / Notification for Create, Update, Delete
-2. Confirmation Message on Delete Action.
+1. Plan for Show Flash Message / Notification 
+2. Create message box jQuery JS Utility (ocb.message.box.js)
+3. Add Flash Massage watcher in Layout
+4. Show Notification Create, Update, and Delete Action.
+5. Install jQuery Confirm jQuery Plugin into project.
+6. Create an Initializer js and include into project (ocb.init.js)
+7. Bind Confirmation Message action in initializer for Delete Action confirmation.
 
 
 <br/><br/>
 
 ### Grails Authentication & Authorization, Login Form (Grails Tutorial Part-6) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Overview of Grails Interceptor 
-2. Create Authentication Controller & Design Login from
-3. Create and Configure Interceptor
+1. Create Dashboard Controller & add index action for show welcome text after login
+2. Create Another Layout for public view, there will no navigation, main layout will be for private access.
+3. Create Authentication Controller & Design Login from
 4. Create Authentication Service & add Logic for Login Member.
+5. Overview of Grails Interceptor 
+6. Create and Configure Interceptor
+
 
 <br/><br/>
 
-### Grails Domain / Entity Relationship-1 (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Reorganize Registration Form (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Restrict Member Controller for Administrator Member.
+2. Expose the Registration form for public Registration.
+
+
+<br/><br/>
+
+### Grails Domain / Entity Relationship-1 (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. What is Grails Entity / Domain Relationship?
 2. OnToMany Relationship, Called HasMany, BelongsTo
 3. ManyToMany Relationship, Called HasMany, HasMany, BelongsTo
@@ -155,7 +173,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain / Entity Relationship-2 HasMany, BelongsTo (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain / Entity Relationship-2 HasMany, BelongsTo (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Domain called Contact. Fields will be
    * Integer id
    * String name
@@ -165,7 +183,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain / Entity Relationship-3 HasMany, HasMany, BelongsTo (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain / Entity Relationship-3 HasMany, HasMany, BelongsTo (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Domain called ContactGroup. Fields will be
    * Integer id
    * String name
@@ -177,7 +195,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain / Entity Relationship-4 HasMany, BelongsTo (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain / Entity Relationship-4 HasMany, BelongsTo (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Domain called ContactDetails. Fields will be
    * Integer id
    * String mobile
@@ -194,7 +212,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Image or File Upload (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Image or File Upload (Grails Tutorial Part-9) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create UI for Image / File Upload
 2. Physical Path Determination
 3. Implement into Controller & Service.
@@ -203,7 +221,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Reset Password Via Email (Grails Tutorial Part-9) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Reset Password Via Email (Grails Tutorial Part-10) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create UI for Reset Password
 2. If email Address matched with email then sent a link to that email address.
 3. Reset Password Via URL with hash code.
@@ -212,7 +230,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Change Database Configuration To MySQL (Grails Tutorial Part-10) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Change Database Configuration To MySQL (Grails Tutorial Part-11) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Configure Database Connection for MySQL
 2. Connect with MySQL server.
 3. Verify the Data Storage.
@@ -221,7 +239,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Deployment Using Tomcat (Grails Tutorial Part-11) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Deployment Using Tomcat (Grails Tutorial Part-12) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create a war file.
 2. Configure a tomcat.
 3. Deploy The application to Tomcat Container.
@@ -230,6 +248,5 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 <br/><br/>
 
 ### Grails Project Exercise [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create UI for Administrator Create, Read, Update, Delete (CRUD) Panel
-2. Administrator Reset Password.
-3. Let me know what is your status.
+1. Administrator can Reset Password for Regular Member.
+2. Let me know what is your status.
