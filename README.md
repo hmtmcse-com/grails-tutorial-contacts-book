@@ -89,16 +89,18 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails CRUD Registration Form -2 (Controller & Service), (Grails Tutorial Part-3) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Basic About Grails Controller & Service
-2. Create a Class named AppUtil which will responsible for some utility function, such as response, pick session etc.
-3. Create a service with below method and adding Logic there.
+### Grails CRUD Registration Form -2 (Controller, URL Mapping & Service), (Grails Tutorial Part-3) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Basic About Grails Controller
+2. Basic About Grails URL Mapping
+3. Basic About Grails Service
+4. Create a Class named AppUtil which will responsible for some utility function, such as response, pick session etc.
+5. Create a service with below method and adding Logic there.
    * **save** : For save data into Database
    * **update** : For Update data into Database
    * **getById** : Retrieve or read data by id from Database
    * **list** : Retrieve or read all data from Database, using pagination and basic search sort mechanism
    * **delete** : Remove data from database.
-4. Create a Controller With below methods
+6. Create a Controller With below methods
    * **index** : Landing Page and show a table with data
    * **details** : Show details of that Entity
    * **create**: Show the create form. 
@@ -109,7 +111,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails CRUD Registration Form -3 (View, table, pagination, form), (Grails Tutorial Part-3) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails CRUD Registration Form -3 (View, Table, Pagination, Form), (Grails Tutorial Part-3) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Basic About Grails Default Tag Library
 2. Localization i18n
 3. Create a HTML form with Grails tag Lib  & Bootstrap 4 design into .gsp file
@@ -134,7 +136,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 <br/><br/>
 
 ### Grails Authentication & Authorization, Login Form (Grails Tutorial Part-6) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Overview of Grails URL Mapping and Interceptor 
+1. Overview of Grails Interceptor 
 2. Create Authentication Controller & Design Login from
 3. Create and Configure Interceptor
 4. Create Authentication Service & add Logic for Login Member.
