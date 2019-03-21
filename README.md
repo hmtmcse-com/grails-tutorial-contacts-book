@@ -52,7 +52,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Project Bismillah, (Grails Tutorial Part-1) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Project Bismillah, (Grails Tutorial Part-1) [YouTube Link](https://www.youtube.com/watch?v=NXRwdrexEh4)
 1. Clone Repository from github.com
    * Git Repository: https://github.com/hmtmcse-com/grails-tutorial-contacts-book
 2. Create Online Contacts Book Grails Project
