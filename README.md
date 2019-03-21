@@ -113,8 +113,8 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 ### Grails CRUD Registration Form -3 (View, Table, Pagination, Form), (Grails Tutorial Part-3) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Basic About Grails View
-   * Partial Template
    * Grails Taglib
+   * Partial Template
 2. Localization i18n
 3. Create a HTML form with Grails tag Lib  & Bootstrap 4 design into .gsp file
 4. Debug Submission & Save Data 
