@@ -9,7 +9,7 @@ class Member {
     String password
     String memberType = GlobalConfig.USER_TYPE.REGULAR_MEMBER
     String identityHash
-    Date identityHashLastUpdate
+    Long identityHashLastUpdate
     Boolean isActive = true
 
     Date dateCreated
