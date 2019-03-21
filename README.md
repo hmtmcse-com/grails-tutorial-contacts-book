@@ -161,6 +161,9 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 ### Grails Reorganize Registration Form (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Restrict Member Controller for Administrator Member.
 2. Expose the Registration form for public Registration.
+3. Add Logout Drop-Down after Login
+4. Show welcome message In dashboard
+5. Add Member nav into Navigation if Member Type Administrator.
 
 
 <br/><br/>
@@ -180,6 +183,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
    * String image
    * Member member  (belongsTo Member Domain)
 2. Create UI From Contact.
+3. Add To Navigation
 
 <br/><br/>
 
@@ -190,6 +194,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
    * Member member  (belongsTo Member Domain)
 2. Add Belongs and HasMany to Contact Domain
 3. Create UI from Contact Group
+4. Add To Navigation
 
 
 
