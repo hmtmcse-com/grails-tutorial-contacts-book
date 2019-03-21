@@ -119,10 +119,10 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 3. Create a HTML form with Grails tag Lib  & Bootstrap 4 design into .gsp file
 4. Debug Submission & Save Data 
 5. Create Table and Show data.
-6. Table Action and Pagination
-7. Add Search Functionality
-8. Update and Delete.
-9. Font Awesome Integration
+6. Font Awesome Integration
+7. Table Action and Pagination
+8. Add Search Functionality
+9. Update and Delete.
 
 <br/><br/>
 
