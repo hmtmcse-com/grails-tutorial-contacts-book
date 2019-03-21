@@ -62,7 +62,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails jQuery and Bootstrap Integration. (Grails Tutorial Part-2) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails jQuery and Bootstrap Integration. (Grails Tutorial Part-2) [YouTube Link](https://www.youtube.com/watch?v=ig5qNZGbW_o)
 1. Grails Asset Pipe Line,  Asset Library Plugin
 2. Grails Layout and View Details
 3. jQuery Integration: https://jquery.com/download/
