@@ -35,3 +35,57 @@ h1 {
 .sidebar .nav-link {
     border-radius: 0;
 }
+
+.action-row{
+    width: 135px;
+    text-align: center;
+}
+
+
+.paginate {
+    background: #fff;
+    border-radius: 2px;
+    height: 32px;
+    line-height: 32px;
+    position: relative;
+}
+
+.paginate span.currentStep {
+    background: none repeat scroll 0 0 #337ab7;
+    border: 1px solid #337ab7;
+    color: #ffffff;
+    display: inline-block;
+    float: left;
+    line-height: 32px;
+    padding: 0 10px;
+    position: relative;
+    z-index: 10;
+    font-size: 14px;
+}
+
+.paginate a.step {
+    border: 1px solid #d3dbde;
+    color: #9e9e9e;
+    display: inline-block;
+    float: left;
+    font-size: 14px;
+    line-height: 32px;
+    padding: 0 10px;
+}
+
+.paginate a.nextLink {
+    color: #9e9e9e;
+    line-height: 32px;
+    padding: 0 8px;
+    border: 1px solid #d3dbde;
+    float: left;
+}
+
+.paginate a.prevLink {
+    color: #9e9e9e;
+    line-height: 32px;
+    padding: 0 8px;
+    display: inline-block;
+    border: 1px solid #d3dbde;
+    float: left;
+}
