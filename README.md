@@ -126,7 +126,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Custom Tag Library (TagLib) & Display Validation Message (Grails Tutorial Part-4) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Custom Tag Library (TagLib) & Display Validation Message (Grails Tutorial Part-4) [YouTube Link](https://www.youtube.com/watch?v=kqy8j4d-KEE)
 1. Basic About Custom Tag Library
 2. Create Custom Tag Library & add validation message processor
 3. Debug Validation Error from Save Update
