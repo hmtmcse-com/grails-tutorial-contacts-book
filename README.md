@@ -135,7 +135,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Play with jQuery & Bootstrap 4 (Grails Tutorial Part-5) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Play with jQuery & Bootstrap 4 (Grails Tutorial Part-5) [YouTube Link](https://www.youtube.com/watch?v=KSnGwM4lRSk)
 1. Plan for Show Flash Message / Notification 
 2. Create message box jQuery JS Utility (ocb.message.box.js)
 3. Add Flash Massage watcher in Layout
