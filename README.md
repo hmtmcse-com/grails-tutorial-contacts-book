@@ -150,8 +150,8 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 ### Grails Authentication & Authorization, Login Form (Grails Tutorial Part-6) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Dashboard Controller & add index action for show welcome text after login
 2. Create Another Layout for public view, there will no navigation, main layout will be for private access.
-3. Create Authentication Controller & Design Login from
-4. Create Authentication Service & add Logic for Login Member.
+3. Create Authentication Service & add Logic for Login Member.
+4. Create Authentication Controller & Design Login from
 5. Overview of Grails Interceptor 
 6. Create and Configure Interceptor
 
