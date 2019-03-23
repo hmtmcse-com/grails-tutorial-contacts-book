@@ -159,11 +159,13 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 <br/><br/>
 
 ### Grails Reorganize Registration Form (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Restrict Member Controller for Administrator Member.
-2. Expose the Registration form for public Registration.
-3. Add Logout Drop-Down after Login
-4. Show welcome message In dashboard
-5. Add Member nav into Navigation if Member Type Administrator.
+1. Expose the Registration form for public Registration.
+2. Add Logout Drop-Down after Login, With Member Name
+3. Restrict Member Controller for Administrator Member.
+4. Add Member nav into Navigation if Member Type Administrator.
+5. Create Initialization service for Init Administrator Member, Name: System Administrator, email: ocb@domain.com, password: 123456
+6. Call the Initializer from Bootstrap.
+
 
 
 <br/><br/>

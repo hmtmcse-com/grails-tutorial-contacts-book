@@ -32,13 +32,13 @@
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        %{--Member Action Menu--}%
     </nav>
 </header>
 
 
 <div class="container-fluid">
     <div class="row">
-
 
         <nav class="col-sm-3 col-md-2 d-none d-sm-block bg-light sidebar">
             <ul class="list-group">
