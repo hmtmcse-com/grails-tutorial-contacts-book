@@ -158,7 +158,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Reorganize Registration Form (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Reorganize Registration Form (Grails Tutorial Part-7) [YouTube Link](https://www.youtube.com/watch?v=DwMds2x0Of0)
 1. Expose the Registration form for public Registration.
 2. Add Logout Drop-Down after Login, With Member Name
 3. Restrict Member Controller for Administrator Member.
