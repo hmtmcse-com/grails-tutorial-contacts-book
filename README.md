@@ -188,8 +188,8 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
    * String address
    * String type
    * Contact contact  (belongsTo Contact Domain)
-5. Adjust The Relationship
-6. Cascade
+5. Adjust & Describe The Relationship
+6. Describe Cascade
 
 
 
