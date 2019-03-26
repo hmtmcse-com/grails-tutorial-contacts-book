@@ -38,7 +38,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### How to Explorer the GitHub Project [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### How to Explorer the GitHub Project [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY)
 
 
 <br/><br/>
@@ -258,7 +258,6 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 <br/><br/>
 
 ### Grails Project Exercise [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Administrator can Reset Password for Regular Member.
-2. When Contact Deleted the images not delete from resources, add a delete implementation.
-3. Fix the Bug of Empty Contact Details Every Update
-2. Let me know what is your status.
+1. When Contact Deleted the images not delete from resources, add a delete implementation.
+2. Fix the Bug of Empty Contact Details Every Update
+3. Let me know what is your status.
