@@ -10,16 +10,14 @@ paradigm, providing a stand-alone development environment and hiding much of the
 
 ## The Project Name is Online Contacts Book
 
-#### Features
+#### Features [Demo YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. People can Register them self using Registrations From.
 2. After Registration He/She can Login into System.
 3. Can Add New Contact Group, Such as Family, Friend, Office Others
 4. Can Add New Contact along with name, Image, Contact Group, and one or more Contact Details, Phone Number, Mobile Number, 
 Email Address, Address etc. Contact Details Type such as Home, Office, Personal etc.
-5. It will allow to search contact with Auto Suggestion.
-6. A Reporting System will show, how many contact, Contact Group and Number into System.
-7. There will be a default Administrator Member, Who will able to view, inActive or remove all of Regular Member
-8. Please See the Last Video for Exercise.
+6. Administrator User can Login and See Other Member
+5. Please See the Last Video for Exercise.
 
 
 <br/><br/>
@@ -170,40 +168,18 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain / Entity Relationship-1 (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. What is Grails Entity / Domain Relationship?
-2. OnToMany Relationship, Called HasMany, BelongsTo
-3. ManyToMany Relationship, Called HasMany, HasMany, BelongsTo
-
-
-<br/><br/>
-
-### Grails Domain / Entity Relationship-2 HasMany, BelongsTo (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create Domain called Contact. Fields will be
+### Grails Domain one-to-one, one-to-many, many-to-one, many-to-many Entity Relationship-1 (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Basic About Grails Entity Relationship
+2. Create Domain ContactGroup. Fields will be
+   * Integer id
+   * String name
+   * Member member  (belongsTo Member Domain)
+3. Create Domain Contact. Fields will be
    * Integer id
    * String name
    * String image
    * Member member  (belongsTo Member Domain)
-2. Create UI From Contact.
-3. Add To Navigation
-
-<br/><br/>
-
-### Grails Domain / Entity Relationship-3 HasMany, HasMany, BelongsTo (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create Domain called ContactGroup. Fields will be
-   * Integer id
-   * String name
-   * Member member  (belongsTo Member Domain)
-2. Add Belongs and HasMany to Contact Domain
-3. Create UI from Contact Group
-4. Add To Navigation
-
-
-
-<br/><br/>
-
-### Grails Domain / Entity Relationship-4 HasMany, BelongsTo (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create Domain called ContactDetails. Fields will be
+4. Create Domain ContactDetails. Fields will be
    * Integer id
    * String mobile
    * String phone
@@ -212,27 +188,50 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
    * String address
    * String type
    * Contact contact  (belongsTo Contact Domain)
-2. Create UI from Contact Details
-3. Add jQuery Ajax Call.
+5. Adjust The Relationship
+6. Cascade
 
+
+
+<br/><br/>
+
+### Grails Domain Entity Relationship-2, Contact Group (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Create Service and Add Logic
+2. Create Controller and Add Actions
+3. Create Views
+4. Add message.properties
+5. Add To Navigation
+
+
+<br/><br/>
+
+### Grails Domain Entity Relationship-3, Contact (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Create Service and Add Logic
+2. Create Controller and Add Actions
+3. Create Views
+4. Add To Navigation
+6. Describe The Details view
+
+
+
+<br/><br/>
+
+### Grails Domain Entity Relationship-4, Contact Details (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+1. Create Service and Add Logic
+2. Create Controller and Add Actions
+3. Add Tag Lib method for Contact Type
+4. Create Views
+5. Add App base URL into Layout Page
+6. Add jQuery Ajax call for New and Delete Contact Details into ocb.init.js
+7. Include Contact Details in Contact Service and Contact form
 
 
 <br/><br/>
 
 ### Grails Image or File Upload (Grails Tutorial Part-9) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create UI for Image / File Upload
-2. Physical Path Determination
-3. Implement into Controller & Service.
-
-
-
-<br/><br/>
-
-### Grails Reset Password Via Email (Grails Tutorial Part-10) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create UI for Reset Password
-2. If email Address matched with email then sent a link to that email address.
-3. Reset Password Via URL with hash code.
-
+1. Create File Upload Util
+2. Add File Upload Functionality into Contact Service
+3. Test Image Upload
 
 
 <br/><br/>
@@ -256,4 +255,6 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 ### Grails Project Exercise [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Administrator can Reset Password for Regular Member.
+2. When Contact Deleted the images not delete from resources, add a delete implementation.
+3. Fix the Bug of Empty Contact Details Every Update
 2. Let me know what is your status.

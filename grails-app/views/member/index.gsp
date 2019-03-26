@@ -3,7 +3,7 @@
 
 <div class="card">
     <div class="card-header">
-        <g:message code="member" args="['List Of']"/>
+        <g:message code="member" args="['List']"/>
 
         %{--Actions--}%
         <span class="float-right">
