@@ -26,7 +26,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Features Overview [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Features Overview [YouTube Link](https://www.youtube.com/watch?v=gSQfR5F28UY)
 
 1. **Controller**
 2. **Model (Domain)**
@@ -257,7 +257,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Project Exercise [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Project Exercise [YouTube Link](https://www.youtube.com/watch?v=x35BMlJI_o4)
 1. When Contact Deleted the images not delete from resources, add a delete implementation.
 2. Fix the Bug of Empty Contact Details Every Update
 3. Let me know what is your status.
