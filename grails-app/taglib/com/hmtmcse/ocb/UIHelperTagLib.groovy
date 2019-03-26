@@ -23,9 +23,11 @@ class UIHelperTagLib {
         out << "</div></li>"
     }
 
+
     def leftNavigation = { attrs, body ->
         List navigations = [
                 [controller: "dashboard", action: "index", name: "dashboard"],
+                [controller: "contactGroup", action: "index", name: "contact.group"],
         ]
 
         if(authenticationService.isAdministratorMember()){
