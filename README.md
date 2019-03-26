@@ -168,7 +168,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain one-to-one, one-to-many, many-to-one, many-to-many Entity Relationship-1 (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain one-to-one, one-to-many, many-to-one, many-to-many Entity Relationship-1 (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/watch?v=GBjKjtqBGQs)
 1. Basic About Grails Entity Relationship
 2. Create Domain ContactGroup. Fields will be
    * Integer id
@@ -195,7 +195,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain Entity Relationship-2, Contact Group (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain Entity Relationship-2, Contact Group UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Service and Add Logic
 2. Create Controller and Add Actions
 3. Create Views
@@ -205,7 +205,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain Entity Relationship-3, Contact (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain Entity Relationship-3, Contact UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Service and Add Logic
 2. Create Controller and Add Actions
 3. Create Views
@@ -216,7 +216,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain Entity Relationship-4, Contact Details (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain Entity Relationship-4, Contact Details UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
 1. Create Service and Add Logic
 2. Create Controller and Add Actions
 3. Add Tag Lib method for Contact Type
