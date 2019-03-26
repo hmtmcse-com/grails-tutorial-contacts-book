@@ -10,7 +10,7 @@ paradigm, providing a stand-alone development environment and hiding much of the
 
 ## The Project Name is Online Contacts Book
 
-#### Features [Demo YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+#### Features [Demo YouTube Link](https://www.youtube.com/watch?v=yuFq4W6MrOU)
 1. People can Register them self using Registrations From.
 2. After Registration He/She can Login into System.
 3. Can Add New Contact Group, Such as Family, Friend, Office Others
@@ -248,7 +248,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Deployment Using Tomcat (Grails Tutorial Part-11) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Deployment Using Tomcat (Grails Tutorial Part-11) [YouTube Link](https://www.youtube.com/watch?v=BtmGjqhozzs)
 1. Download the Tomcat from tomcat website
 2. Extract the Tomcat and Clean the ROOT Directory
 3. Create a war file using grails command.
