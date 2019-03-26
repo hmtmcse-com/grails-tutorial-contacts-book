@@ -15,4 +15,8 @@ class AppUtil {
     static infoMessage(String message, boolean status = true) {
         return [info: message, success: status]
     }
+
+    static String baseURL(){
+        return "${getAppSession().getServletContext().getContextPath()}/"
+    }
 }
