@@ -217,7 +217,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain Entity Relationship-4, Contact Details UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain Entity Relationship-4, Contact Details UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/watch?v=i-E8UDEQUn8)
 1. Create Service and Add Logic
 2. Create Controller and Add Actions
 3. Add Tag Lib method for Contact Type
@@ -229,7 +229,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Image or File Upload (Grails Tutorial Part-9) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Image or File Upload (Grails Tutorial Part-9) [YouTube Link](https://www.youtube.com/watch?v=Q6bY-MxLMyc)
 1. Create File Upload Util
 2. Add File Upload Functionality into Contact Service
 3. Test Image Upload
