@@ -238,18 +238,21 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 <br/><br/>
 
 ### Grails Change Database Configuration To MySQL (Grails Tutorial Part-11) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Configure Database Connection for MySQL
-2. Connect with MySQL server.
-3. Verify the Data Storage.
+1. Goto maven repository https://mvnrepository.com/ and search the MySQL Driver
+2. Copy the Gradle config and add to project
+3. Add MySQL Configuration into application.yml
+4. Create Database into MySQL
+5. Verify the Data Storage.
 
 
 
 <br/><br/>
 
 ### Grails Deployment Using Tomcat (Grails Tutorial Part-12) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
-1. Create a war file.
-2. Configure a tomcat.
-3. Deploy The application to Tomcat Container.
+1. Download the Tomcat from tomcat website
+2. Extract the Tomcat and Clean the ROOT Directory
+3. Create a war file using grails command.
+4. Deploy The application to Tomcat Container.
 
 
 <br/><br/>
