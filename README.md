@@ -237,7 +237,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Change Database Configuration To MySQL (Grails Tutorial Part-10) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Change Database Configuration To MySQL (Grails Tutorial Part-10) [YouTube Link](https://www.youtube.com/watch?v=-P2EQEVchik)
 1. Goto maven repository https://mvnrepository.com/ and search the MySQL Driver
 2. Copy the Gradle config and add to project
 3. Add MySQL Configuration into application.yml
