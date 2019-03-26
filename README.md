@@ -195,7 +195,7 @@ Email Address, Address etc. Contact Details Type such as Home, Office, Personal 
 
 <br/><br/>
 
-### Grails Domain Entity Relationship-2, Contact Group UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/channel/UCdm33qs7-m6n5Bw5gyFvuPQ)
+### Grails Domain Entity Relationship-2, Contact Group UI (Grails Tutorial Part-8) [YouTube Link](https://www.youtube.com/watch?v=Au0-m4VA3Q8)
 1. Create Service and Add Logic
 2. Create Controller and Add Actions
 3. Create Views
