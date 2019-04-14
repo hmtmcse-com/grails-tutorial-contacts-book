@@ -17,7 +17,9 @@ class Contact {
     static hasMany = [contactDetails: ContactDetails, contactGroup: ContactGroup]
 
     static constraints = {
+        name(nullable: false, blank: false)
         image(nullable: true, blank: true)
+        contactGroup(nullable: false, blank: false)
     }
 
     static mapping = {
