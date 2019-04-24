@@ -63,20 +63,8 @@ class ContactService {
 
     def delete(Contact contact) {
         try {
-
-            def absPath = Holders.servletContext?.getRealPath("") + "contact-image/"
-
-            String filePath = contact.id + "-" + contact.image
-            String completePath = absPath + filePath
-            def file = new File(completePath)
-            if (file.exists()) {
-                boolean fileSuccessfullyDeleted = file.delete()
-                contact.delete(flush: true)
-            } else {
-                contact.delete(flush: true)
-
-            }
-
+            deleteImage(contact)
+            contact.delete(flush: true)
         } catch (Exception e) {
             println(e.getMessage())
             return false
@@ -92,6 +80,14 @@ class ContactService {
                 contact.image = image
                 contact.save(flush:true)
             }
+        }
+    }
+
+    def deleteImage(Contact contact) {
+        def completePath = FileUtil.getRootPath() + "contact-image/" + contact.id + "-" + contact.image
+        def file = new File(completePath)
+        if (file.exists()) {
+            file.delete()
         }
     }
 
