@@ -8,6 +8,15 @@ paradigm, providing a stand-alone development environment and hiding much of the
 
 <br/><br/>
 
+### How to Run Project Binary or Jar using command line? [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY)
+
+Please follow the [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY) for see how you able to run this project.
+
+**[Download the Jar File from here.](https://www.youtube.com/watch?v=XkPuvtRi6ZY)**
+
+
+<br/><br/>
+
 ## The Project Name is Online Contacts Book
 
 #### Features [Demo YouTube Link](https://www.youtube.com/watch?v=yuFq4W6MrOU)
