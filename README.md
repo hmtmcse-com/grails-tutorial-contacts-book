@@ -12,7 +12,7 @@ paradigm, providing a stand-alone development environment and hiding much of the
 
 Please follow the [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY) for see how you able to run this project.
 
-**[Download the Jar File from here.](https://www.youtube.com/watch?v=XkPuvtRi6ZY)**
+**[Download the Jar File from here.](https://github.com/hmtmcse-com/grails-tutorial-contacts-book/raw/master/binary/OnlineContactsBook-0.1.jar)**
 
 
 <br/><br/>
