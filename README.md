@@ -8,9 +8,9 @@ paradigm, providing a stand-alone development environment and hiding much of the
 
 <br/><br/>
 
-## How to Run Project Binary or Jar using command line? [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY)
+## How to Run Project Binary or Jar using command line? [YouTube Link](https://www.youtube.com/watch?v=ilo8ui_XRDc)
 
-Please follow the [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY) for see how you able to run this project.
+Please follow the [YouTube Link](https://www.youtube.com/watch?v=ilo8ui_XRDc) for see how you able to run this project.
 
 **[Download the Jar File from here.](https://github.com/hmtmcse-com/grails-tutorial-contacts-book/raw/master/binary/OnlineContactsBook-0.1.jar)**
 
