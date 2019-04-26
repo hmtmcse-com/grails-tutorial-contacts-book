@@ -15,6 +15,7 @@
 <div class="form-group">
     <label><g:message code="contact.group.name"/></label>
     <UIHelper:contactGroup value="${contact?.contactGroup*.id}"/>
+    <UIHelper:renderErrorMessage fieldName="contactGroup" model="${contact}" errorMessage="Select contact group"/>
 </div>
 
 

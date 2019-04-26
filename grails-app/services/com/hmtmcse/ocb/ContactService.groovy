@@ -1,5 +1,6 @@
 package com.hmtmcse.ocb
 
+import grails.util.Holders
 import grails.web.servlet.mvc.GrailsParameterMap
 
 import javax.servlet.http.HttpServletRequest
@@ -62,6 +63,7 @@ class ContactService {
 
     def delete(Contact contact) {
         try {
+            deleteImage(contact)
             contact.delete(flush: true)
         } catch (Exception e) {
             println(e.getMessage())
@@ -78,6 +80,14 @@ class ContactService {
                 contact.image = image
                 contact.save(flush:true)
             }
+        }
+    }
+
+    def deleteImage(Contact contact) {
+        def completePath = FileUtil.getRootPath() + "contact-image/" + contact.id + "-" + contact.image
+        def file = new File(completePath)
+        if (file.exists()) {
+            file.delete()
         }
     }
 
