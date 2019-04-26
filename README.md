@@ -15,6 +15,11 @@ Please follow the [YouTube Link](https://www.youtube.com/watch?v=XkPuvtRi6ZY) fo
 **[Download the Jar File from here.](https://github.com/hmtmcse-com/grails-tutorial-contacts-book/raw/master/binary/OnlineContactsBook-0.1.jar)**
 
 
+#### Login Credential
+1. **Email:** ocb@domain.com
+2. **Password:** 123456
+
+
 <br/><br/>
 
 ## The Project Name is Online Contacts Book
